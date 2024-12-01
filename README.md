@@ -15,17 +15,17 @@ Under 0Auth2, ReactBot will need permisions for:
 Don't forget to mark it as *bot* at the scopes.
 Once you have a valid token, save it somewhere safe and using the 0auth link, add it to your server.
 ## Run the script
-The scripts needs two things:
+The script needs two things:
  - a valid bot token
  - a directory full of mp3 files for the reactions
-To run the script simply run
+To start the bot simply run
 ```shell
 python reactbot.py <your-token> /path/to/directory/full/of/mp3/files
 ```
 That should be it!
 # Usage 
-When in a channel, send !join for ReactBot to join
+When in a voice channel, send !join for ReactBot to join
 
-You can kick it off the channel with !leave
+You can kick it off the voice channel with !leave
 
 Send !react whenever you want ReactBot's insightful commentary :)
