@@ -12,7 +12,9 @@ Under 0Auth2, ReactBot will need permisions for:
  - Send messages
  - Connect
  - Speak
+
 Don't forget to mark it as *bot* at the scopes.
+
 Once you have a valid token, save it somewhere safe and using the 0auth link, add it to your server.
 ## Run the script
 The script needs two things:
